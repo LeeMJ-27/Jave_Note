@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note1.md",
+                "file": "Jave/Note1.md",
                 "mode": "source",
                 "source": false
               },
@@ -187,7 +187,8 @@
   },
   "active": "6b0b0416d24d708a",
   "lastOpenFiles": [
+    "Jave",
     "新建 Text Document.txt",
-    "Note1.md"
+    "Jave/Note1.md"
   ]
 }
