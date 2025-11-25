@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jave/Note1.md",
+                "file": "Jave/(1)基础语法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note1"
+              "title": "(1)基础语法"
             }
           }
         ]
@@ -189,6 +189,6 @@
   "lastOpenFiles": [
     "Jave",
     "新建 Text Document.txt",
-    "Jave/Note1.md"
+    "Jave/(1)基础语法.md"
   ]
 }
