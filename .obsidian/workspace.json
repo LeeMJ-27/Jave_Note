@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Note"
             }
+          },
+          {
+            "id": "362474dd5cd0d4af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +202,9 @@
   },
   "active": "6b0b0416d24d708a",
   "lastOpenFiles": [
+    "Note.md",
+    "未命名.md",
     "Jave",
-    "新建 Text Document.txt",
-    "Note.md"
+    "新建 Text Document.txt"
   ]
 }
