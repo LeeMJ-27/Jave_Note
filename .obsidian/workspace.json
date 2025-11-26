@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#练习",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "affa27dff0881cff",
+  "active": "6b0b0416d24d708a",
   "lastOpenFiles": [
     "Pasted image 20251126231914.png",
     "Jave/一.人机交互.md",
