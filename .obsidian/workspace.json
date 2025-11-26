@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础语法/Note.md",
+                "file": "基础语法/1.人机交互.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note"
+              "title": "1.人机交互"
             }
           }
         ]
@@ -188,7 +188,7 @@
   "active": "6b0b0416d24d708a",
   "lastOpenFiles": [
     "基础语法",
-    "基础语法/Note.md",
+    "基础语法/1.人机交互.md",
     "基础语法.md",
     "Jave",
     "新建 Text Document.txt"
