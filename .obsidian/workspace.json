@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jave/1.人机交互.md",
+                "file": "Jave/一.人机交互.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.人机交互"
+              "title": "一.人机交互"
             }
           }
         ]
@@ -185,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b0b0416d24d708a",
+  "active": "756cf31766a4eea6",
   "lastOpenFiles": [
     "Jave",
-    "Jave/1.人机交互.md",
+    "Jave/一.人机交互.md",
     "基础语法.md",
     "Jave",
     "新建 Text Document.txt"
