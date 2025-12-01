@@ -39,12 +39,14 @@
             "id": "09576bca040ed998",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "一.人机交互.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
+              "icon": "lucide-file",
+              "title": "一.人机交互"
             }
           }
         ],
@@ -214,8 +216,8 @@
   },
   "active": "09576bca040ed998",
   "lastOpenFiles": [
-    "一.人机交互.md",
     "Jave_基础语法/未命名.md",
+    "一.人机交互.md",
     "未命名",
     "Pasted image 20251126231914.png",
     "Jave_基础语法",
